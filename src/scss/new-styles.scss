@@ -1,7 +1,10 @@
+$primary-color: rgb(185, 207, 255);
+$secondary-color: #ffffff;
+ 
 html, body {
   margin: 0;
   font-family: Arial;
-  color: #ffffff;
+  color: $secondary-color;
 }
 
 p, a {
@@ -27,7 +30,7 @@ ul {
 .nav {
   width: 15%;
   min-width: 140px;
-  color: #FFCFCF;
+  color: $primary-color;
   padding-top: 55px;
   padding-right: 30px;
   text-align: center;
@@ -42,7 +45,7 @@ ul {
   width: 85%;
   min-height: 750px;
   min-width: 600px;
-  background-color: #FFCFCF;
+  background-color: $primary-color;
 }
 
 .content ul {
