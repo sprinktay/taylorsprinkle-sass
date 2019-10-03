@@ -12,3 +12,4 @@ An easy way to use download and use a template from a repo is [degit](https://ww
 - Run `gulp dev` to run Sass and start the development server.
 
 For further directions, see the [Sass lesson](https://github.com/utdata/icj-class#sass).
+# taylorsprinkle-sass
